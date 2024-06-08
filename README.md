@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en ItnovateLab, desarrollando aplicaciones web.<br>🌱 Actualmente estoy aprendiendo la tecnología de Node.JS y mongoDB<br>
+🔭 Actualmente estoy trabajando en Visma Latam, desarrollando aplicaciones web.<br>🌱 Actualmente estoy aprendiendo la tecnología de Node.JS y mongoDB<br>
 
 
 ## 🌐 Socials:
